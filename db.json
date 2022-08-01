@@ -1,0 +1,41 @@
+{
+    "tasks": [
+      {
+        "id": 1,
+        "title": "Frontend",
+        "person": "Lainer",
+        "details": "Crear formulario de contacto",
+        "state": "done",
+        "deadline": 1290410940,
+        "created": 1615352159
+      },
+      {
+        "id": 2,
+        "title": "Backend",
+        "person": "Julio.",
+        "details": "Crear base de datos",
+        "state": "to-do",
+        "deadline": 1615524959,
+        "created": 1615352159
+      },
+      {
+        "id": 3,
+        "title": "Frontend",
+        "person": "Juan.",
+        "details": "Crear modal",
+        "state": "to-do",
+        "deadline": 1615524959,
+        "created": 1615352159
+      },
+      {
+        "id": 3,
+        "title": "Diseño",
+        "person": "Pedro Juarez.",
+        "details": "Diseñar logo",
+        "state": "to-do",
+        "deadline": 1615524959,
+        "created": 1615352159
+      }
+    ]
+  }
+  
